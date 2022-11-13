@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ylamssieh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ylamssieh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/<div class="badge-base li-profile-badge" data-locale="en_us" data-size="medium" data-theme="dark" data-type="vertical" data-vanity="youssef-lamssieh-17b2b6256" data-version="v1"><a class="badge-base__link li-simple-link" href="https://ma.linkedin.com/in/youssef-lamssieh-17b2b6256?trk=profile-badge">youssef lamssieh</a></div>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="<div class="badge-base li-profile-badge" data-locale="en_us" data-size="medium" data-theme="dark" data-type="vertical" data-vanity="youssef-lamssieh-17b2b6256" data-version="v1"><a class="badge-base__link li-simple-link" href="https://ma.linkedin.com/in/youssef-lamssieh-17b2b6256?trk=profile-badge">youssef lamssieh</a></div>" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/youssef lamssieh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef lamssieh" height="30" width="40" /></a>
 <a href="https://instagram.com/_yus.suf_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yus.suf_" height="30" width="40" /></a>
 </p>
 
