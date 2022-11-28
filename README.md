@@ -18,4 +18,4 @@ Hey everyone ! Here you can find the projets that I do at 42.
 
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=YuSuFLams&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuSuFLams&theme=nord&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuSuFLams&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
