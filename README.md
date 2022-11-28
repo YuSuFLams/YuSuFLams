@@ -1,4 +1,4 @@
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ylamsiah" alt="ylamsiah's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ylamsiah" alt="ylamsiah's 42 stats" /></a>
 
 Hey everyone ! Here you can find the projets that I do at 42.
 
