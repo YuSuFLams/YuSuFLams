@@ -18,3 +18,4 @@ Hey everyone ! Here you can find the projets that I do at 42.
 
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=YuSuFLams)](https://github.com/anuraghazra/github-readme-stats)
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=YuSuFLams&hide=stars,commits,prs,issues,contribs)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=YuSuFLams&count_private=true)
