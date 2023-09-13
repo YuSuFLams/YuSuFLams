@@ -78,7 +78,7 @@
 | :-----: | :----------: | :---------: | :----: | :------: | :----: |
 | `CPP Modules` | <a href="https://github.com/YuSuFLams/CPP-42.git"><picture><source media="(prefers-color-scheme: dark)"><source srcset="https://user-images.githubusercontent.com/40824677/205689834-f6b698a0-844d-46c2-8cca-2051cd3a9ef0.png"><img alt="GitHub Logo in Light or Dark."> | **know** **C++** , **inheritance classe** | C++, Makefile | `done` | - |
 | ```NetPractice ```| <a href="https://github.com/YuSuFLams/NetPractice.git"><picture><source media="(prefers-color-scheme: dark)"><source srcset="https://user-images.githubusercontent.com/40824677/205689834-f6b698a0-844d-46c2-8cca-2051cd3a9ef0.png"><img alt="GitHub Logo in Light or Dark." > | *Fred, there is an unplugged Ethernet cable...* | Networking | `done` | - |
-| ```minishell``` | <a href="https://github.com/YuSuFLams/Minishell-42.git"><picture><source media="(prefers-color-scheme: dark)"><source srcset="https://user-images.githubusercontent.com/40824677/205689834-f6b698a0-844d-46c2-8cca-2051cd3a9ef0.png"><img alt="GitHub Logo in Light or Dark."> | *As beautiful as a shell* | C, Makefile, Shell | `under constructions` | - |
+| ```minishell``` | <a href="https://github.com/YuSuFLams/Minishell-42"><picture><source media="(prefers-color-scheme: dark)"><source srcset="https://user-images.githubusercontent.com/40824677/205689834-f6b698a0-844d-46c2-8cca-2051cd3a9ef0.png"><img alt="GitHub Logo in Light or Dark."> | *As beautiful as a shell* | C, Makefile, Shell | `under constructions` | - |
 
 ### 1337 School Exams
 
