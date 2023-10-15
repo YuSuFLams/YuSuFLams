@@ -58,8 +58,8 @@
 
 ### **Finished Projects**
 
-|  Nº  | Project | Available At | Description | Topics | Finished | Status |
-| :--: | :-----: | :----------: | :---------: | :----: | :------: | :----: |
+|  Nº  | Project | Available At | Description | Topics | Finished |
+| :--: | :-----: | :----------: | :---------: | :----: | :------: |
 | 1 | ```libft``` | <a href="https://github.com/YuSuFLams/Libft-42.git"><picture><source media="(prefers-color-scheme: dark)"><source srcset="https://user-images.githubusercontent.com/40824677/205689834-f6b698a0-844d-46c2-8cca-2051cd3a9ef0.png"><img alt="GitHub Logo in Light or Dark.">| *My first library* | C, Makefile, Library | Octobre 2022 |
 | 2 | ```ft_printf``` | <a href="https://github.com/YuSuFLams/Ft_printf-42.git"><picture><source media="(prefers-color-scheme: dark)"><source srcset="https://user-images.githubusercontent.com/40824677/205689834-f6b698a0-844d-46c2-8cca-2051cd3a9ef0.png"><img alt="GitHub Logo in Light or Dark." > | *Write project like printf* | C, Makefile, Print | Novembre 2022 |
 | 3 | ```get_next_line``` | <a href="https://github.com/YuSuFLams/Get-next-line-42.git"><picture><source media="(prefers-color-scheme: dark)"><source srcset="https://user-images.githubusercontent.com/40824677/205689834-f6b698a0-844d-46c2-8cca-2051cd3a9ef0.png"><img alt="GitHub Logo in Light or Dark."> | *Reading a line on a **fd** is way too tedious* | C, Reading | Novembre 2022 |
