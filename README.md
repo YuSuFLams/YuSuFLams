@@ -80,6 +80,7 @@
 | Project | Available At | Description | Topics | Finished | Status |
 | :-----: | :----------: | :---------: | :----: | :------: | :----: |
 | ```cub3d``` | <a href="https://github.com/YuSuFLams/Cub3d-42"><picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/40824677/205689829-11cbb3fd-d452-4846-a799-0be90146192e.png"><source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/40824677/205689834-f6b698a0-844d-46c2-8cca-2051cd3a9ef0.png"><img alt="GitHub Logo in Light or Dark."> | *My first RayCaster with miniLibX* | C, Makefile, cub3d, FPS, UX | `under constructions` | - |
+| ```exam-03``` | <a href="https://github.com/YuSuFLams/42-Exam-Rank-04"><picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/40824677/205689829-11cbb3fd-d452-4846-a799-0be90146192e.png"><source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/40824677/205689834-f6b698a0-844d-46c2-8cca-2051cd3a9ef0.png"><img alt="GitHub Logo in Light or Dark."> | *Rank 3 exam* | C, exam, *mini_paint*, *micro_paint* | `under constructions` | - |
 
 ### 1337 School Exams
 
@@ -124,7 +125,6 @@
 
 
 | 9 | philosophers | <a href="https://github.com/madebypixel02/philosophers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/40824677/205689829-11cbb3fd-d452-4846-a799-0be90146192e.png"><source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/40824677/205689834-f6b698a0-844d-46c2-8cca-2051cd3a9ef0.png"><img alt="GitHub Logo in Light or Dark." src="https://user-images.githubusercontent.com/40824677/205689829-11cbb3fd-d452-4846-a799-0be90146192e.png"></picture></a><br/><a href="https://gitlab.com/madebypixel02/philosophers"><img src="https://user-images.githubusercontent.com/40824677/205691219-5698063c-44bf-453a-b4df-365654641979.png"/></a> | *I’ve never thought philosophy would be so deadly* | C, Makefile, Thread, Mutex | October 2021 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/philosophers) | [![aperez-b's 42Project Score](https://badge42.vercel.app/api/v2/cl1kyexqa001109mf3u4zsrcw/project/2363553)](https://github.com/JaeSeoKim/badge42) |
-| 11 | ``exam-03`` | - | *Rank 3 exam* | C, exam, *mini_paint*, *micro_paint* | February 2022 | - | [![aperez-b's 42Project Score](https://badge42.vercel.app/api/v2/cl1kyexqa001109mf3u4zsrcw/project/2367840)](https://github.com/JaeSeoKim/badge42) |
 | 13 | ``exam-04`` | - | *Rank 4 exam* | C, Makefile, exam, *minishell*, *microshell* | June 2022 | - | [![aperez-b's 42Project Score](https://badge42.vercel.app/api/v2/cl1kyexqa001109mf3u4zsrcw/project/2506468)](https://github.com/JaeSeoKim/badge42) |
  -->
 
