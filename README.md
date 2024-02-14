@@ -87,7 +87,7 @@
 
 | Project | Available At | Description | Topics | Finished | Status |
 | :-----: | :----------: | :---------: | :----: | :------: | :----: |
-| ```ft_irc``` | <a href="https://github.com/YuSuFLams/ft_irc-42"><picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/40824677/205689829-11cbb3fd-d452-4846-a799-0be90146192e.png"><source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/40824677/205689834-f6b698a0-844d-46c2-8cca-2051cd3a9ef0.png"><img alt="GitHub Logo in Light or Dark."> | *Intenet Relay Chat* | C++, Makefile, irc | `under constructions`  | - |
+| **```ft_irc```** | <a href="https://github.com/YuSuFLams/ft_irc-42"><picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/40824677/205689829-11cbb3fd-d452-4846-a799-0be90146192e.png"><source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/40824677/205689834-f6b698a0-844d-46c2-8cca-2051cd3a9ef0.png"><img alt="GitHub Logo in Light or Dark."> | *Intenet Relay Chat* | C++, Makefile, irc | `under constructions`  | - |
 | **```exam-rank-05```** | <a href="https://github.com/YuSuFLams/42-Exam-Rank-05"><picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/40824677/205689829-11cbb3fd-d452-4846-a799-0be90146192e.png"><source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/40824677/205689834-f6b698a0-844d-46c2-8cca-2051cd3a9ef0.png"><img alt="GitHub Logo in Light or Dark."> | *Polymorphism, Inheritance, Encapsulation* | C++ | `Done`  | - |
 
 
